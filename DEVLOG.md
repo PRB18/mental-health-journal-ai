@@ -40,6 +40,15 @@ This file tracks daily progress, learnings, and key milestones while building th
 
 ---
 
+## 🗓️ Day 3 – Reflection Save/Load + Gemini Integration
+
+- Integrated Gemini 1.5 Flash to generate journal reflections.
+- Learned how to use `with open()` and JSON `load()` / `dump()`.
+- Faced and solved `JSONDecodeError`, Gemini object serialization, and missing import issues.
+- Added data persistence (save/load) with `journal.json`.
+- Learned the difference between `.text`, `.txt`, and how to handle Gemini responses.
+
+
 ## Notes
 
 This is a continuous build-measure-learn project. The goal isn’t just completion — but improving code quality, design thinking, and API mastery with every iteration.
